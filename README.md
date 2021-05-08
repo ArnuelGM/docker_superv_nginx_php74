@@ -1,7 +1,7 @@
 # Server Nginx + PHP 7.4 + Supervisor
 
 Un servidor web Nginx + PHP (7.4) dentro de un simple contenedor administrado por supervisor.    
-Imagen disponible en [docker hub](https://hub.docker.com/repository/docker/arnuelgm/supervisor_nginx_php74)
+Imagen disponible en [docker hub](https://hub.docker.com/r/arnuelgm/supervisor_nginx_php74)
 
 ## Cómo Usarlo ?
 
